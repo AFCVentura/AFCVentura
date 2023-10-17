@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AFCVentura</title>
-</head>
-<body>
-    <h1 style="text-align:center">Oi, eu sou o Ventura!</h3>
+<h1 style="text-align:center">Oi, eu sou o Ventura!</h3>
         <h2 style="text-align:center">Essas são minhas redes sociais</h3>
         <div class="container" style="display: flex; justify-content: center; align-items: center">
         
@@ -32,10 +24,3 @@
         <p style="text-align: center">Essas são algumas das minhas artes<br>
         <div class="container" style="display: flex; justify-content: center; align-items: center">
         <a href="https://img.shields.io/badge/Gamemaker-000000.svg?style=for-the-badge&logo=Gamemaker&logoColor=white"><img src="https://img.shields.io/badge/Gamemaker-000000.svg?style=for-the-badge&logo=Gamemaker&logoColor=white.png" title="gamemaker"/></a></div>
-        
-        
-        
-        
-    
-</body>
-</html>
