@@ -1,4 +1,4 @@
-<h1 style="text-align:center; align:center">Oi, eu sou o Ventura!</h3>
+<h1 align="center" style="text-align:center;">Oi, eu sou o Ventura!</h3>
 <h2 style="text-align:center">Essas são minhas redes sociais</h3>
 <div class="container" style="display: flex; justify-content: center; align-items: center">
         
