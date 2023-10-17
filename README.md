@@ -1,3 +1,6 @@
+<div align="center">
+        <img src="example.svg" width="400" height="400" alt="css-in-readme">
+</div>
 <h1 align="center" style="text-align:center;">Oi, eu sou o Ventura!</h1>
 <h2 align="center" style="text-align:center">Essas são minhas redes sociais</h2>
 <div align="center" class="container" style="display: flex; justify-content: center; align-items: center">
