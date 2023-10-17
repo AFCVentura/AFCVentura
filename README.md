@@ -16,4 +16,5 @@
 Estou aberto a sugestões relacionadas a ele!!</p>
 <br>
 <h3 align="center" style="text-align:center">Também faço pixel art</h3>
-<p align="center" style="text-align: center">Essas são algumas das minhas artes<br>
+<p align="center" style="text-align: center">Essas são algumas das minhas artes</p>
+<br>
