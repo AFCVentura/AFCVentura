@@ -15,49 +15,16 @@
 <p align="center" style="text-align: center">Ainda está em fase de prototipação 🙁<br>
 Estou aberto a sugestões relacionadas a ele!!</p>
 <br>
-<h3 align="center" style="text-align:center">Também faço pixel art</h3>
-<p align="center" style="text-align: center">Essas são algumas das minhas artes</p>
-
-<br>
+<h3 align="center" style="text-align:center">Também faço pixel art usando</h3>
 <div align="center" class="container" style="display: flex; justify-content: center; align-items: center">
-<a href="https://img.shields.io/badge/Gamemaker-000000.svg?style=for-the-badge&logo=Gamemaker&logoColor=white"><img src="https://img.shields.io/badge/Gamemaker-000000.svg?style=for-the-badge&logo=Gamemaker&logoColor=white.png" title="gamemaker"/></a></div>
+<img src="https://img.shields.io/badge/Aseprite-7D929E.svg?style=for-the-badge&logo=Aseprite&logoColor=white" title="aseprite"/></div>
 
-<div class="slider" style="margin: 0 auto; width: 800px; height: 400px; overflow: hidden;">
-    <div class="slides" style="width: 500%; height: 400px; display: flex;">
-        <input type="radio" name="radio-btn" id="radio1" style="display: none;">
-        <input type="radio" name="radio-btn" id="radio2" style="display: none;">
-        <input type="radio" name="radio-btn" id="radio3" style="display: none;">
-        <input type="radio" name="radio-btn" id="radio4" style="display: none;">
-        <input type="radio" name="radio-btn" id="radio5" style="display: none;">
-        <div class="slide first" style="width: 20%; position: relative;">
-            <img src="https://imgur.com/UlLuYSd" alt="Imagem 1" style="width: 800px;">
-        </div>
-        <div class="slide">
-            <img src="https://imgur.com/iwOExXp" alt="Imagem 2">
-        </div>
-        <div class="slide">
-            <img src="https://imgur.com/a3Tvco1" alt="Imagem 3">
-        </div>
-        <div class="slide">
-            <img src="https://imgur.com/gIb9dqy" alt="Imagem 4">
-        </div>
-        <div class="slide">
-            <img src="https://imgur.com/LyyXfSH" alt="Imagem 5">
-        </div>
-        <div class="navigation-auto">
-            <div class="auto-btn1"></div>
-            <div class="auto-btn2"></div>
-            <div class="auto-btn3"></div>
-            <div class="auto-btn4"></div>
-            <div class="auto-btn5"></div>
-        </div>
-    </div>
-    <div class="manual-navigation" style="position: absolute; width: 800px; margin-top: -40px; display: flex; justify-content: center;">
-        <label for="radio1" class="manual-btn" style="border: 2px solid blue; padding: 5px;cursor: pointer; border-radius: 10px; transition: 1s; margin-right: 40px; :checked{margin-left: 0px;}"></label>
-        <label for="radio2" class="manual-btn" style="border: 2px solid blue; padding: 5px;cursor: pointer; border-radius: 10px; transition: 1s; margin-right: 40px; :checked{margin-left: -20%;}"></label>
-        <label for="radio3" class="manual-btn" style="border: 2px solid blue; padding: 5px;cursor: pointer; border-radius: 10px; transition: 1s; margin-right: 40px;"></label>
-        <label for="radio4" class="manual-btn" style="border: 2px solid blue; padding: 5px;cursor: pointer; border-radius: 10px; transition: 1s; margin-right: 40px;"></label>
-        <label for="radio5" class="manual-btn" style="border: 2px solid blue; padding: 5px;cursor: pointer; border-radius: 10px; transition: 1s;"></label>
-    </div>
+<h3 align="center" style="text-align: center">Essas são algumas das minhas artes</h3>
 
+<div align="center" class="container" style="display: flex; justify-content: center; align-items: center">
+    <img src="https://imgur.com/UlLuYSd" title="paisagem"/>
+    <img src="https://imgur.com/iwOExXp" title="killua"/>
+    <img src="https://imgur.com/a3Tvco1" title="arvores"/>
+    <img src="https://imgur.com/gIb9dqy" title="akira"/>
+    <img src="https://imgur.com/LyyXfSH" title="delorean"/>
 </div>
