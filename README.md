@@ -22,9 +22,5 @@ Estou aberto a sugestões relacionadas a ele!!</p>
 <h3 align="center" style="text-align: center">Essas são algumas das minhas artes</h3>
 
 <div align="center" class="container" style="display: flex; justify-content: center; align-items: center">
-    <img src="https://imgur.com/UlLuYSd.png" title="paisagem"/>
-    <img src="https://imgur.com/iwOExXp.png" title="killua"/>
-    <img src="https://imgur.com/a3Tvco1.png" title="arvores"/>
-    <img src="https://imgur.com/gIb9dqy.png" title="akira"/>
-    <img src="https://imgur.com/LyyXfSH.png" title="delorean"/>
+    <a data-flickr-embed="true" href="https://www.flickr.com/photos/199373549@N05" title=""><img src="https://live.staticflickr.com/65535/53281231755_ca11c6ae2b.jpg" width="640" height="480" alt=""/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
