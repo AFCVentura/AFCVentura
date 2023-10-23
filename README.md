@@ -1,3 +1,6 @@
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
+
 <h1 align="center" style="text-align:center;">Oi, eu sou o Ventura!</h1>
 <h2 align="center" style="text-align:center">Essas são minhas redes sociais</h2>
 <div align="center" class="container" style="display: flex; justify-content: center; align-items: center">
