@@ -1,4 +1,3 @@
-![Snake animation](https://github.com/AFCVentura/AFCVentura/blob/output/github-contribution-grid-snake.svg)
 
 
 <h1 align="center" style="text-align:center;">Oi, eu sou o Ventura!</h1>
