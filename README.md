@@ -19,4 +19,4 @@ Estou aberto a sugestões relacionadas a ele!!</p>
 <div align="center" class="container" style="display: flex; justify-content: center; align-items: center">
 <img src="https://img.shields.io/badge/Aseprite-7D929E.svg?style=for-the-badge&logo=Aseprite&logoColor=white" title="aseprite"/></div>
 
-<h3 align="center" style="text-align: center">Essas são algumas das minhas artes</h3>
+<h3 align="center" style="text-align: center">Esse é o meu repositório de pixel arts</h3>
