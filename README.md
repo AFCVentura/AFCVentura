@@ -20,4 +20,6 @@ Estou aberto a sugestões relacionadas a ele!!</p>
 <img src="https://img.shields.io/badge/Aseprite-7D929E.svg?style=for-the-badge&logo=Aseprite&logoColor=white" title="aseprite"/></div>
 
 <h3 align="center" style="text-align: center">Esse é o meu repositório de pixel arts</h3>
-<a href=https://flic.kr/ps/43bq6V><img src="https://img.shields.io/badge/Flickr-0063DC.svg?style=for-the-badge&logo=Flickr&logoColor=white" title="flickr"/></a>
+<div align="center" class="container" style="display: flex; justify-content: center; align-items: center">
+    <a href=https://flic.kr/ps/43bq6V><img src="https://img.shields.io/badge/Flickr-0063DC.svg?style=for-the-badge&logo=Flickr&logoColor=white" title="flickr"/></a>
+</div>
