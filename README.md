@@ -22,5 +22,5 @@ Estou aberto a sugestões relacionadas a ele!!</p>
 <h3 align="center" style="text-align: center">Essas são algumas das minhas artes</h3>
 
 <div align="center" class="container" style="display: flex; justify-content: center; align-items: center">
-    <a data-flickr-embed="true" href="https://www.flickr.com/photos/199373549@N05" title=""><img src="https://live.staticflickr.com/65535/53281231755_ca11c6ae2b.jpg" width="640" height="480" alt=""/></a>
+    <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/199373549@N05" title=""><img src="https://live.staticflickr.com/65535/53281231755_6e1413aef5_h.jpg" width="1200" height="1600" alt=""/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
