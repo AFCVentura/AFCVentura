@@ -25,7 +25,7 @@ Estou aberto a sugestões relacionadas a ele!!</p>
 <div align="center" class="container" style="display: flex; justify-content: center; align-items: center">
     <a href=https://flic.kr/ps/43bq6V><img src="https://img.shields.io/badge/Flickr-0063DC.svg?style=for-the-badge&logo=Flickr&logoColor=white" title="flickr"/></a>
 </div>
-
+<picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/AFCVentura/AFCVentura/output/github-contribution-grid-snake-dark.svg"
