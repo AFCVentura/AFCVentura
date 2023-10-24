@@ -27,4 +27,5 @@ Estou aberto a sugestões relacionadas a ele!!</p>
 </div>
 
 
-![snake gif](https://github.com/AFCVentura/AFCVentura/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AFCVentura/AFCVentura/blob/output/github-contribution-grid-snake.svg)
+
