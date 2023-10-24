@@ -27,5 +27,4 @@ Estou aberto a sugestões relacionadas a ele!!</p>
 </div>
 
 
-![Snake animation](https://github.com/afcventura/afcventura/blob/output/github-contribution-grid-snake.svg)
-
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AFCVentura/AFCVentura/output/github-contribution-grid-snake-dark.svg" />
