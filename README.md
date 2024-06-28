@@ -40,5 +40,4 @@ Estou aberto a sugestões relacionadas a ele!!</p>
   />
 </picture>
 
-<img alt="AFCVentura's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AFCVentura&show_icons=true&theme=radical">
-)
+<img alt="AFCVentura's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AFCVentura&show_icons=true&theme=dracula">
