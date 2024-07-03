@@ -41,3 +41,5 @@ Estou aberto a sugestões relacionadas a ele!!</p>
 </picture>
 
 <img alt="AFCVentura's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AFCVentura&show_icons=true&theme=dracula">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
