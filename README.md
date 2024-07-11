@@ -43,3 +43,5 @@ Estou aberto a sugestões relacionadas a ele!!</p>
 <img alt="AFCVentura's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AFCVentura&show_icons=true&theme=dracula">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AFCVentura&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AFCVentura)](https://github.com/anuraghazra/github-readme-stats)
