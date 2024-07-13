@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AFCVentura</title>
-</head>
 <body>
     <div class="container">
         <h1>Hi, I'm Ventura</h1>
@@ -27,9 +19,6 @@
             <a href=""><img src="https://skillicons.dev/icons?i=unity&theme-dark" alt="Unity Icon"></a>
             <a href=""><img src="https://skillicons.dev/icons?i=linux&theme-dark" alt="Linux Icon"></a>
         </div>
-
-
-
     </div>
 </body>
 </html>
