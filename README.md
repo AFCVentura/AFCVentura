@@ -1,47 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AFCVentura</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Hi, I'm Ventura</h1>
+        <p>I'm a back-end developer</p>
+        <h2>These are my techs</h2>
+        <div class="container-icons">
+            <a href="https://en.wikipedia.org/wiki/Git"><img src="https://skillicons.dev/icons?i=git&theme-dark" alt="Git Icon"/></a>
+            <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://skillicons.dev/icons?i=cs&theme-dark" alt="Csharp Icon"/></a>
+            <a href="https://en.wikipedia.org/wiki/.NET"><img src="https://skillicons.dev/icons?i=dotnet&theme-dark" alt="DotNet Icon"/></a>
+            <a href="https://en.wikipedia.org/wiki/MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme-dark" alt="MySQL Icon"/></a>
+            <a href="https://en.wikipedia.org/wiki/GameMaker"><img src="https://skillicons.dev/icons?i=gamemakerstudio&theme-dark" alt="GameMaker Icon"/></a>
+        </div>
+        <h2>I'm also studying...</h2>
+        <div class="container-icons">
+            <a href=""><img src="https://skillicons.dev/icons?i=java&theme-dark" alt="Java Icon"></a>
+            <a href=""><img src="https://skillicons.dev/icons?i=spring&theme-dark" alt="Spring Icon"></a>
+            <a href=""><img src="https://skillicons.dev/icons?i=react&theme-dark" alt="React Icon"></a>
+            <a href=""><img src="https://skillicons.dev/icons?i=bootstrap&theme-dark" alt="Bootstrap Icon"></a>
+            <a href=""><img src="https://skillicons.dev/icons?i=unity&theme-dark" alt="Unity Icon"></a>
+            <a href=""><img src="https://skillicons.dev/icons?i=linux&theme-dark" alt="Linux Icon"></a>
+        </div>
 
 
-<h1 align="center" style="text-align:center;">Oi, eu sou o Ventura!</h1>
-<h2 align="center" style="text-align:center">Essas são minhas redes sociais</h2>
-<div align="center" class="container" style="display: flex; justify-content: center; align-items: center">
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-ventura-b2777626a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="linkedin"/></a>
-    <a href="https://afcventura.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" title="itchio"/></a>
-    <a href="https://steamcommunity.com/profiles/76561198795887050/"><img src="https://img.shields.io/badge/Steam-000000.svg?style=for-the-badge&logo=Steam&logoColor=white" title="steam"/></a>
-    <a href="https://gamejolt.com/@AFCVentura"><img src="https://img.shields.io/badge/Game%20Jolt-CCFF00.svg?style=for-the-badge&logo=Game-Jolt&logoColor=black" title="gamejolt"/></a>
-</div>
-    
-<h3 align="center" style="text-align:center">Eu desenvolvo jogos utilizando</h3>
-<div align="center" class="container" style="display: flex; justify-content: center; align-items: center">
-<img src="https://img.shields.io/badge/Gamemaker-000000.svg?style=for-the-badge&logo=Gamemaker&logoColor=white" title="gamemaker"/></div>
-<h3 align="center" style="text-align:center">Esse é o jogo que estou produzindo sozinho atualmente</h3>
-<img align="center" src="https://i.imgur.com/HFJEXHg.png" title="meujogo"/>
-<p align="center" style="text-align: center">Ainda está em fase de prototipação 🙁<br>
-Estou aberto a sugestões relacionadas a ele!!</p>
-<br>
-<h3 align="center" style="text-align:center">Também faço pixel art usando</h3>
-<div align="center" class="container" style="display: flex; justify-content: center; align-items: center">
-<img src="https://img.shields.io/badge/Aseprite-7D929E.svg?style=for-the-badge&logo=Aseprite&logoColor=white" title="aseprite"/></div>
 
-<h3 align="center" style="text-align: center">Esse é o meu repositório de pixel arts</h3>
-<div align="center" class="container" style="display: flex; justify-content: center; align-items: center">
-    <a href=https://flic.kr/ps/43bq6V><img src="https://img.shields.io/badge/Flickr-0063DC.svg?style=for-the-badge&logo=Flickr&logoColor=white" title="flickr"/></a>
-</div>
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/AFCVentura/AFCVentura/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/AFCVentura/AFCVentura/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/AFCVentura/AFCVentura/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-<img alt="AFCVentura's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AFCVentura&show_icons=true&theme=dracula">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AFCVentura&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AFCVentura)](https://github.com/anuraghazra/github-readme-stats)
+    </div>
+</body>
+</html>
