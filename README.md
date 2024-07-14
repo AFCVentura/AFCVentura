@@ -32,7 +32,7 @@
     <a href="https://steamcommunity.com/profiles/76561198795887050/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Icon"></a>
     <a href="https://gamejolt.com/@AFCVentura" target="_blank"><img src="https://img.shields.io/badge/Game%20Jolt-CCFF00?style=for-the-badge&logo=Game%20Jolt&logoColor=white" alt="Game Jolt Icon"></a>
     <a href="https://www.flickr.com/photos/199373549@N05/" target="_blank"><img src="https://img.shields.io/badge/Flickr-0063DC.svg?style=for-the-badge&logo=Flickr&logoColor=white" alt="Game Jolt Icon"></a>
-    <br>
+    <h1></h1>
     <div>
         <img height="170" src="https://github-readme-stats.vercel.app/api?username=AFCVentura&&show_icons=true&theme=holi&hide=stars,issues,contribs&show=reviews" alt="GitHub Stats"/> 
         <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFCVentura&layout=compact&include_all_commits=true&langs_count=6&hide_progress=false&theme=holi&exclude_repo=Asteroids,NoneJam8,Dark-Dungeon-Quest,ExerciciosGitHub" alt="Most Used Languages" class="stats">
@@ -46,7 +46,7 @@
         media="(prefers-color-scheme: light)"
         srcset="https://raw.githubusercontent.com/AFCVentura/AFCVentura/output/github-contribution-grid-snake.svg"
       />
-      <img
+      <img width="80%"
         alt="Commits Snake"
         src="https://raw.githubusercontent.com/AFCVentura/AFCVentura/output/github-contribution-grid-snake.svg"
       />
