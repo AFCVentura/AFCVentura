@@ -25,6 +25,7 @@
     <a href="https://en.wikipedia.org/wiki/MongoDB" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme-dark" alt="MongoDB Icon"></a>
     <a href="https://en.wikipedia.org/wiki/PostgreSQL" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme-dark" alt="PostgreSQL Icon"></a>
     <a href="https://en.wikipedia.org/wiki/Docker_(software)" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme-dark" alt="Docker Icon"></a>
+    <h1></h1>
     <h3>In my free time, I like to work on game development, here is what I use</h3>
     <a href="https://en.wikipedia.org/wiki/GameMaker" target="_blank"><img src="https://img.shields.io/badge/Gamemaker-000000.svg?style=for-the-badge&logo=Gamemaker&logoColor=green" alt="GameMaker Icon"/></a>
     <a href="https://en.wikipedia.org/wiki/Aseprite" target="_blank"><img src="https://img.shields.io/badge/Aseprite-7D929E.svg?style=for-the-badge&logo=Aseprite&logoColor=black" alt="Aseprite Icon"/></a>
@@ -41,6 +42,7 @@
         <img height="170" src="https://github-readme-stats.vercel.app/api?username=AFCVentura&&show_icons=true&theme=holi&hide=stars,issues,contribs&show=reviews" alt="GitHub Stats"/> 
         <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFCVentura&layout=compact&include_all_commits=true&langs_count=6&hide_progress=false&theme=holi&exclude_repo=Asteroids,NoneJam8,Dark-Dungeon-Quest,ExerciciosGitHub" alt="Most Used Languages" class="stats">
     </div>
+    <h1></h1>
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
