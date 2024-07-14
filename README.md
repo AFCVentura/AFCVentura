@@ -33,8 +33,8 @@ I'm also a web development professor in my faculty</p>
 <a href="https://www.flickr.com/photos/199373549@N05/" target="_blank"><img src="https://img.shields.io/badge/Flickr-0063DC.svg?style=for-the-badge&logo=Flickr&logoColor=white" alt="Game Jolt Icon"></a>
 <br>
 <div>
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=AFCVentura&&show_icons=true&theme=holi&hide=stars,issues,contribs&show=reviews" alt="GitHub Stats"/> 
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFCVentura&layout=compact&include_all_commits=true&langs_count=6&hide_progress=false&theme=holi&exclude_repo=Asteroids,NoneJam8,Dark-Dungeon-Quest,ExerciciosGitHub" alt="Most Used Languages" class="stats">
+    <img height="120" src="https://github-readme-stats.vercel.app/api?username=AFCVentura&&show_icons=true&theme=holi&hide=stars,issues,contribs&show=reviews" alt="GitHub Stats"/> 
+    <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFCVentura&layout=compact&include_all_commits=true&langs_count=6&hide_progress=false&theme=holi&exclude_repo=Asteroids,NoneJam8,Dark-Dungeon-Quest,ExerciciosGitHub" alt="Most Used Languages" class="stats">
 </div>
 <picture>
   <source
