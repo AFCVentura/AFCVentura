@@ -46,7 +46,7 @@
         media="(prefers-color-scheme: light)"
         srcset="https://raw.githubusercontent.com/AFCVentura/AFCVentura/output/github-contribution-grid-snake.svg"
       />
-      <img width="80%"
+      <img width="95%"
         alt="Commits Snake"
         src="https://raw.githubusercontent.com/AFCVentura/AFCVentura/output/github-contribution-grid-snake.svg"
       />
