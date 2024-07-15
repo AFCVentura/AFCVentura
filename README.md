@@ -6,7 +6,7 @@
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ventura.py3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Icon"></a>
     <p>I'm a back-end developer, currently on the home straight of college <br>
     I'm also a web development professor in my faculty</p>
-    <h3>these are my main technologies</h3>
+    <h3>These are my main technologies</h3>
     <a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme-dark" alt="Git Icon"/></a>
     <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=cs&theme-dark" alt="Csharp Icon"/></a>
     <a href="https://en.wikipedia.org/wiki/.NET" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet&theme-dark" alt="DotNet Icon"/></a>
