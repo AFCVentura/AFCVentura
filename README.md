@@ -26,10 +26,10 @@
     <a href="https://en.wikipedia.org/wiki/PostgreSQL" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme-dark" alt="PostgreSQL Icon"></a>
     <a href="https://en.wikipedia.org/wiki/Docker_(software)" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme-dark" alt="Docker Icon"></a>
     <h1></h1>
-    <h3>In my free time, I like to work on game development, here is what I use</h3>
+    <h3>In my free time, I like to work on game development using</h3>
     <a href="https://en.wikipedia.org/wiki/GameMaker" target="_blank"><img src="https://img.shields.io/badge/Gamemaker-000000.svg?style=for-the-badge&logo=Gamemaker&logoColor=green" alt="GameMaker Icon"/></a>
     <a href="https://en.wikipedia.org/wiki/Aseprite" target="_blank"><img src="https://img.shields.io/badge/Aseprite-7D929E.svg?style=for-the-badge&logo=Aseprite&logoColor=black" alt="Aseprite Icon"/></a>
-    <h3>But I'm starting to try some 3D stuff with</h3>
+    <h3>But I'm starting to try 3D too</h3>
     <a href="https://en.wikipedia.org/wiki/Unity_(game_engine)" target="_blank"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Icon"/></a>
     <a href="https://en.wikipedia.org/wiki/Blender_(software)" target="_blank"><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=brown" alt="Blender Icon"/></a>
     <h3>When it comes to gamedev, you can find me on...</h3>
