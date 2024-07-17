@@ -54,7 +54,7 @@
       />
       <img width="95%"
         alt="Commits Snake"
-        src="https://raw.githubusercontent.com/AFCVentura/AFCVentura/output/github-contribution-grid-snake.svg"
+        src="https://raw.githubusercontent.com/AFCVentura/AFCVentura/output/github-contribution-grid-snake.dark.svg"
       />
     </picture>
 </div>
