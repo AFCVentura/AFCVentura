@@ -19,8 +19,9 @@
     <a href="https://en.wikipedia.org/wiki/Apache_Maven" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme-dark" alt="Maven Icon"></a>
     <a href="https://en.wikipedia.org/wiki/Apache_Maven" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme-dark" alt="Maven Icon"></a>
     <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap&theme-dark" alt="Bootstrap Icon"></a>
-    <h3>I'm also studying...</h3>
     <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme-dark" alt="React Icon"></a>
+    <h3>I'm also studying...</h3>
+    <a href="https://pt.wikipedia.org/wiki/TypeScript" target="_blank"><img src="https://skillicons.dev/icons?i=ts&theme-dark"></a>
     <a href="https://en.wikipedia.org/wiki/Linux" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme-dark" alt="Linux Icon"></a>
     <a href="https://en.wikipedia.org/wiki/MongoDB" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme-dark" alt="MongoDB Icon"></a>
     <a href="https://en.wikipedia.org/wiki/PostgreSQL" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme-dark" alt="PostgreSQL Icon"></a>
