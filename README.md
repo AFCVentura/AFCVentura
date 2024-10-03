@@ -41,7 +41,7 @@
     <h1></h1>
     <div>
         <img height="170" src="https://github-readme-stats.vercel.app/api?username=AFCVentura&&show_icons=true&theme=holi&hide=stars,issues,contribs&show=reviews" alt="GitHub Stats"/> 
-        <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFCVentura&layout=compact&include_all_commits=true&langs_count=6&hide_progress=false&theme=holi&exclude_repo=Asteroids,NoneJam8,Dark-Dungeon-Quest,ExerciciosGitHub" alt="Most Used Languages" class="stats">
+        <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFCVentura&layout=compact&include_all_commits=true&langs_count=6&hide_progress=false&theme=holi&exclude_repo=Asteroids,NoneJam8,Dark-Dungeon-Quest,ExerciciosGitHub&hide=html,css" alt="Most Used Languages" class="stats">
     </div>
     <h1></h1>
       <img width="95%" alt="Commits Snake" src="https://raw.githubusercontent.com/AFCVentura/AFCVentura/output/github-contribution-grid-snake-dark.svg"/>
