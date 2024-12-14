@@ -15,9 +15,9 @@
     <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme-dark" alt="Java Icon"></a>
     <a href="https://en.wikipedia.org/wiki/Spring_Framework" target="_blank"><img src="https://skillicons.dev/icons?i=spring&theme-dark" alt="Spring Icon"></a>
     <a href="https://en.wikipedia.org/wiki/Apache_Maven" target="_blank"><img src="https://skillicons.dev/icons?i=maven&theme-dark" alt="Maven Icon"></a>
-    <a href="https://en.wikipedia.org/wiki/Apache_Maven" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme-dark" alt="Maven Icon"></a>
-    <a href="https://en.wikipedia.org/wiki/Apache_Maven" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme-dark" alt="Maven Icon"></a>
-    <a href="https://en.wikipedia.org/wiki/Apache_Maven" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme-dark" alt="Maven Icon"></a>
+    <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme-dark" alt="Maven Icon"></a>
+    <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme-dark" alt="Maven Icon"></a>
+    <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme-dark" alt="Maven Icon"></a>
     <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap&theme-dark" alt="Bootstrap Icon"></a>
     <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme-dark" alt="React Icon"></a>
     <h3>I'm also studying...</h3>
