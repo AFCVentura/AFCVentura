@@ -12,7 +12,8 @@
     <a href="https://en.wikipedia.org/wiki/.NET" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet&theme-dark" alt="DotNet Icon"/></a>
     <a href="https://en.wikipedia.org/wiki/MySQL" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme-dark" alt="MySQL Icon"/></a>
     <a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server" target="_blank"><img height="48"  src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server Icon"/></a>
-    <a href="https://en.wikipedia.org/wiki/Blazor" target="_blank"><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/blazor/blazor-original.svg" alt="Microsoft SQL Server Icon"/></a>
+    <a href="https://en.wikipedia.org/wiki/Blazor" target="_blank"><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/blazor/blazor-original.svg" alt="Blazor Icon"/></a>
+    <a href="https://en.wikipedia.org/wiki/Microsoft_Azure" target="_blank"><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/azure/azure-original.svg" alt="Microsoft Azure Icon"/></a>
     <h3>I also know</h3>
     <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme-dark" alt="Java Icon"></a>
     <a href="https://en.wikipedia.org/wiki/Spring_Framework" target="_blank"><img src="https://skillicons.dev/icons?i=spring&theme-dark" alt="Spring Icon"></a>
