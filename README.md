@@ -14,15 +14,15 @@
     <a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server" target="_blank"><img height="48"  src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server Icon"/></a>
     <a href="https://en.wikipedia.org/wiki/Blazor" target="_blank"><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/blazor/blazor-original.svg" alt="Blazor Icon"/></a>
     <a href="https://en.wikipedia.org/wiki/Microsoft_Azure" target="_blank"><img height="48" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/azure/azure-original.svg" alt="Microsoft Azure Icon"/></a>
+    <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme-dark" alt="React Icon"></a>
+    <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap&theme-dark" alt="Bootstrap Icon"></a>
     <h3>I also know</h3>
     <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme-dark" alt="Java Icon"></a>
     <a href="https://en.wikipedia.org/wiki/Spring_Framework" target="_blank"><img src="https://skillicons.dev/icons?i=spring&theme-dark" alt="Spring Icon"></a>
     <a href="https://en.wikipedia.org/wiki/Apache_Maven" target="_blank"><img src="https://skillicons.dev/icons?i=maven&theme-dark" alt="Maven Icon"></a>
-    <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme-dark" alt="Maven Icon"></a>
-    <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme-dark" alt="Maven Icon"></a>
-    <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme-dark" alt="Maven Icon"></a>
-    <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap&theme-dark" alt="Bootstrap Icon"></a>
-    <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme-dark" alt="React Icon"></a>
+    <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme-dark" alt="HTML Icon"></a>
+    <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme-dark" alt="CSS Icon"></a>
+    <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme-dark" alt="JavaScript Icon"></a>
     <h3>I'm also studying...</h3>
     <a href="https://pt.wikipedia.org/wiki/TypeScript" target="_blank"><img src="https://skillicons.dev/icons?i=ts&theme-dark"></a>
     <a href="https://en.wikipedia.org/wiki/Linux" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme-dark" alt="Linux Icon"></a>
