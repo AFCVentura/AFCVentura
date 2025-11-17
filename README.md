@@ -4,9 +4,11 @@
     <a href="https://www.instagram.com/afcventura/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Icon"></a>
     <a href="https://discordapp.com/users/651539465382133784"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Icon"></a>
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ventura.py3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Icon"></a>
-    <p>I'm a fullstack developer specialized in .NET (Blazor, ASP.NET Core, Microsoft SQL Server and Azure) <br> Currently on the home straight of college <br>
-    I'm also a web development professor in my faculty</p>
-    <h3>These are my main technologies</h3>
+    <p>
+        I'm a full-stack web and mobile developer specialized in .NET (Blazor, ASP.NET Core, .NET MAUI, Microsoft SQL Server and Azure).<br>
+        I hold a degree in Systems Analysis and Development and currently work as a freelancer, open to both freelance opportunities and full-time positions.<br>
+        I have also worked as a web development instructor at my college.
+    </p>
     <a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme-dark" alt="Git Icon"/></a>
     <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=cs&theme-dark" alt="Csharp Icon"/></a>
     <a href="https://en.wikipedia.org/wiki/.NET" target="_blank"><img src="https://skillicons.dev/icons?i=dotnet&theme-dark" alt="DotNet Icon"/></a>
