@@ -6,7 +6,8 @@
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ventura.py3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Icon"></a>
     <p>
         I'm a full-stack web and mobile developer specialized in .NET (Blazor, ASP.NET Core, .NET MAUI, Microsoft SQL Server and Azure).<br>
-        I hold a degree in Systems Analysis and Development and currently work as a freelancer, open to both freelance opportunities and full-time positions.<br>
+        I hold a degree in Systems Analysis and Development.<br> 
+        I currently work as a freelancer, open to both freelance opportunities and full-time positions.<br>
         I have also worked as a web development instructor at my college.
     </p>
     <a href="https://en.wikipedia.org/wiki/Git" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme-dark" alt="Git Icon"/></a>
